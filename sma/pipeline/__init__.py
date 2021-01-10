@@ -1,0 +1,1 @@
+from sma.pipeline.twitter import execute
